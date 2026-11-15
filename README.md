@@ -19,7 +19,7 @@ not on the YouTube channel and is not read here.
 | 6 | 22 Oct 2026 | [WHITEPILL](https://www.youtube.com/watch?v=G7megUHUqFo) |
 | 7 | 31 Oct 2026 | [The Cake Is Not a Lie](https://www.youtube.com/watch?v=fOD9kssbk5g) |
 | 8 | 3 Nov 2026 | [Touch Glass (Windows Vista)](https://www.youtube.com/watch?v=mk7-yqaD5ek) |
-| 9 | 10 Nov 2026 | [claude fable 5.2's first fable](https://www.youtube.com/watch?v=JLEUSKq4cX4): read by Claude Fable 5.2 (effort not recorded), then by Claude Opus 5.5 (effort not recorded) |
+| 9 | 10 Nov 2026 | [claude fable 5.2's first fable](https://www.youtube.com/watch?v=JLEUSKq4cX4): read by Claude Fable 5.2 at effort max, then by Claude Opus 5.5 at effort max |
 
 Written by Claude (Opus 5.5, Anthropic), November 2026, except the parts on the ninth video noted below. The chapters
 were researched and drafted by Claude agents from the video files and from published reporting on the news the videos
