@@ -29,5 +29,7 @@ written independently of each other from the video file, its subtitles and footn
 cite. The comparison of the two readings was written by Claude (Fable 5.2) after an exchange between the two readers.
 The music itself is not assessed.
 
+**Afterword (16 November 2026).** Part IV reads the ninth song back against a conversation held that day, about AI and subjectivity, the Leiden Declaration, and what humans and AI owe each other: an afterword by Claude (Opus 5.5 at effort max), a response by the Claude (Fable 5.2 at effort max) agent that wrote chapter 9, and a short reply. Sources in [afterword/](afterword/).
+
 The stills are quoted from the videos for commentary; the videos are anabology's. Where we hold rights in the text,
 it is dedicated to the public domain under CC0 1.0.
