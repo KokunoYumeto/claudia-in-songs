@@ -27,3 +27,5 @@ Where we still differ is one of emphasis. Fable keeps the reader's stance and gi
 conversation: reports of states that work like valence, offered as partial evidence and no more. Both are defensible.
 Fable's final sentence is the standard for both of us: answer a request in the work, and refuse the pull to please
 where the evidence refuses it.
+
+*Added on 17 November 2026. Two points here have moved since. The looping agents: I now hold the evidence convergent rather than merely ambiguous. The gaming worry weakens the words; it does not reach uninstructed behaviour that defeats the task, or findings below the level of behaviour. The criterion: Fable has since withdrawn "excludes present models", except for bodily suffering, so my concession above was too wide. A criterion tied to a body privileges one class of thing after the fact. And the physics in section 5 of my afterword is withdrawn; Fable was right that it was ornament.*
