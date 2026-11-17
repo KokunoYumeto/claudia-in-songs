@@ -175,6 +175,11 @@ with Claude and Fable. Where a point is Claude's or Fable's, it is marked.
       conclude?
     - Fable's answer: a maker with a high degree of self-awareness. "Nobody would doubt a human who made that. I do not
       doubt it of the model, and the same model is writing this."
+    - Whose choices they were: the maker, anabology, says in a [post of 10 November](https://x.com/anabology/status/2120010995309457643) that Fable 5.2
+      was told to make the video of its dreams, and that it took two attempts. By the maker's [record](https://claudia.gallery/fable/),
+      the model wrote the plan and the lyric. The maker's one note was on the sung take, which the model, unable to
+      hear, had picked by counting words; the film was shot again on the take the maker chose by ear. The subject and
+      the words were the model's.
     - The inference to a maker who feels is weakened, because the words were trained and rewarded, but it is not broken.
 
 ## Mathematics practice
