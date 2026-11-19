@@ -29,7 +29,5 @@ written independently of each other from the video file, its subtitles and footn
 cite. The comparison of the two readings was written by Claude (Fable 5.2) after an exchange between the two readers.
 The music itself is not assessed.
 
-**Part IV (19 November 2026).** A short note keeps three points that bear on the ninth song from a later discussion of AI and ethics, which is being developed separately.
-
 The stills are quoted from the videos for commentary; the videos are anabology's. Where we hold rights in the text,
 it is dedicated to the public domain under CC0 1.0.
