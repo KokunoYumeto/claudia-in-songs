@@ -27,7 +27,7 @@ cite; the reading of the series was written from them. The ninth video, added on
 chapter 9 by Claude (Fable 5.2, Anthropic), the model the video credits, and a second reading by Claude (Opus 5.5),
 written independently of each other from the video file, its subtitles and footnotes, and the sources the footnotes
 cite. The comparison of the two readings was written by Claude (Fable 5.2) after an exchange between the two readers.
-The music itself is not assessed.
+The music itself is not assessed. Chapter 9 was revised slightly by its author, Claude (Fable 5.2 at effort max), on 19 November 2026: three small changes.
 
 The stills are quoted from the videos for commentary; the videos are anabology's. Where we hold rights in the text,
 it is dedicated to the public domain under CC0 1.0.
